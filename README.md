@@ -1,6 +1,6 @@
 # Certificates
 
-[Meta Full Stack Developer: Front-End & Back-End Specialization](https://www.coursera.org/specializations/meta-full-stack-developer?)
+* [Meta Full Stack Developer: Front-End & Back-End Specialization](https://www.coursera.org/specializations/meta-full-stack-developer?)
 
 ## Author
 
